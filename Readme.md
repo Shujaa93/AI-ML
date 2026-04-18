@@ -7,7 +7,7 @@ The goal of this repository is to explore core AI/ML concepts and apply them thr
 
 ##  About Me
 
-I am **Shujjat Hussain**, a student of Artificial Intelligence at IMSciENCES University, with a strong interest in machine learning, data analysis, and problem solving.
+I am **Shujaat Hussain**, a student of Artificial Intelligence at IMSciENCES University, with a strong interest in machine learning, data analysis, and problem solving.
 
 ##  Contents
 
