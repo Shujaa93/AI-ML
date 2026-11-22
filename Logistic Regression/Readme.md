@@ -53,23 +53,6 @@ The project includes visualizations to better understand the data and model perf
 
 Open `Heart-disease.ipynb` to explore and run the project.
 
-## Visualizations
-
-### Target Distribution
-![Target Distribution](images/target_distribution.png)
-
-### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
-
-### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
-
-### ROC Curve
-![ROC Curve](images/roc_curve.png)
-
-### Feature Coefficients
-![Feature Coefficients](images/feature_importance.png)
-
 ## Purpose
 
 This project was developed as a learning project to practice supervised machine learning, data preprocessing,
